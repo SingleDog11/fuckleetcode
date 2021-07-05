@@ -1,0 +1,2 @@
+# fuckleetcode
+fuck leetcode
